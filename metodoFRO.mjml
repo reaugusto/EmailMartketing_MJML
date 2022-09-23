@@ -1,0 +1,87 @@
+<mjml>
+  <mj-body>
+    <mj-section full-width="full-width" background-color="#000" padding="0px">
+      <mj-column vertical-align="middle" width="30%">
+        <mj-image width="200px" src="https://www.metodofro.com/wp-content/uploads/2020/09/icon_tab.png" href="https://www.metodofro.com/?pv=prol6zg8&af=afiz9e0yg"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle" width="70%">
+        <mj-text color="#fff" font-weight="800" font-size="30px" align="center"> O Metodo para seu Sucesso Financeiro!!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section full-width="full-width" background-color="#000" border-top="2px solid #fff">
+      <mj-column>
+        <mj-text align="center">
+          <span style="color: #fff; font-size: 18px; font-weight: 500">NUNCA, NA HISTÓRIA DO MARKETING DIGITAL, FOI TÃO SIMPLES GERAR RESULTADOS!</span><br /><br />
+          <span style="color: #fff; font-size: 15px">Confie seu investimento a um método infalível.</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section full-width="full-width" background-url="https://www.metodofro.com/wp-content/uploads/2020/09/2nd_background.png">
+      <mj-column>
+        <mj-text color="#fff" font-weight="800" font-size="20px" align="center">
+          O obstáculo entre você e o sucesso financeiro será quebrado pelo Método F.R.O
+        </mj-text>
+        <mj-text padding="0" align="center">
+          <iframe width="100%" height="285" src="https://www.youtube.com/embed/pt3JSUYH9c0" title="O método mais esperado do marketing digital MÉTODO F.R.O" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </mj-text>
+
+        <mj-button href="https://ev.braip.com/ref?pl=pla40rmp&ck=che2gxdp&af=afiz9e0yg" background-color="red">Quero me Inscrever <span style="font-weight:600">AGORA</span></mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section full-width="full-width" background-color="#020101" background-size="cover">
+      <mj-column>
+        <mj-image src="https://www.metodofro.com/wp-content/uploads/2020/09/photo_diego.png" border="0">
+        </mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://www.metodofro.com/wp-content/uploads/2020/09/diego_name.png" border="0" padding-top="30px">
+        </mj-image>
+        <mj-text color="#fff" font-weight="500" align="justify" padding-top="15px">
+          Olá, me chamo Diego Martone, tenho 25 anos. Até meus 21 anos eu trabalhava de porteiro e foi no ano de 2017 que resolvi mudar de vida e ir pro lado empreendedorismo, no ano de 2019 foi a virada de chave onde fiz meu primeiro MILHÃO e no ano de 2020 entramos para o marketing digital e em apenas 4 meses ja faturamos mais de 2 milhões usando um método que ensinamos no FRO, ja me diziam que: se você acreditar que pode ou que não pode ambas você está certo, então decida fazer o que vai ser ensinado que tenho certeza que terá ótimos resultados.
+        </mj-text>
+        <mj-button padding-top="40px" href="https://ev.braip.com/ref?pl=pla40rmp&ck=che2gxdp&af=afiz9e0yg" background-color="red">Quero me Inscrever <span style="font-weight:600">AGORA</span></mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section full-width="full-width" background-color="#020101" background-size="cover" border-top="2px solid #fff" border-bottom="2px solid #fff">
+      <mj-column>
+        <mj-text color="#fff" align="center">
+          <h1>Aprenda praticando</h1>
+          <p> A teoria é importante, mas a prática MUDA TUDO. Com o F.R.O. você não fica só observando!
+          </p>
+          <h1>Mentoria em grupo</h1>
+
+          <p> Aprenda com quem é líder em resultado no mercado. Descubra técnicas inovadoras, entenda conceitos e processos e potencialize seus ganhos.</p>
+          <h1>Suporte personalizado</h1>
+          <p> Você nunca estará sozinho. Temos uma equipe preparada para te orientar no que precisar.</p>
+          <h1>Custo benefício</h1>
+          <p> A melhor escolha para seus resultados e para seu bolso! </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section full-width="full-width" background-color="#020101">
+      <mj-column>
+        <mj-image src="https://www.metodofro.com/wp-content/uploads/2020/09/txt-AGARRE-768x161.png">
+        </mj-image>
+        <mj-image width="200px" src="https://www.metodofro.com/wp-content/uploads/2020/09/ENQUANTO-HA-TEMPO_-.png">
+        </mj-image>
+        <mj-text color="#fff" align="center">
+          <span style="color: #fff; font-size: 18px; font-weight: 500; text-decoration:line-through">DE R$ 594,00</span><br />
+          <span style="color: #fff; font-size: 40px; font-weight: 800"> POR 12X de R$ 29,82</span><br />
+          <span style="color: #fff; font-size: 18px; font-weight: 500">(Menos de R$ 0,99 por dia) </span><br /><br /><br />
+          <span style="color: #fff; font-size: 20px; font-weight: 600"> ou por R$297,00 à vista </span>
+        </mj-text>
+        <mj-button href="https://ev.braip.com/ref?pl=pla40rmp&ck=che2gxdp&af=afiz9e0yg" background-color="red">Quero me Inscrever <span style="font-weight:600">AGORA</span></mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section full-width="full-width" background-color="#020101" border-top="1px solid #fff">
+      <mj-column vertical-align="middle">
+        <mj-text font-size="20px">
+          <a style="color:#fff; text-decoration: none" href="https://www.metodofro.com/?pv=prol6zg8&af=afiz9e0yg">SAIBA MAIS</a>
+        </mj-text>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-image align="right" width="50px" src="https://www.metodofro.com/wp-content/uploads/2020/09/icon_tab.png" href="https://www.metodofro.com/?pv=prol6zg8&af=afiz9e0yg"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
